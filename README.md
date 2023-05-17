@@ -9,6 +9,7 @@ While the standard version is played on an 8x8 board,
 variations with different dimensions exist.
 
 
+
 ![Polish Draughts](https://github.com/asiasmol/Polish-Draughts-Java/assets/102509876/53ae20b5-6ed3-4891-b8d4-0bf36e43c513)
 
 
